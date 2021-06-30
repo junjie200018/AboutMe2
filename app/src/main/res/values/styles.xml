@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="mystyle">
+        <item name="android:layout_margin">@dimen/margin</item>
+        <item name="android:paddingTop">@dimen/padding</item>
+        <item name="android:textColor">@color/textcolor</item>
+        <item name="android:textSize">@dimen/textSize</item>
+    </style>
+</resources>
